@@ -9,8 +9,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+    
 
   cupertino_icons: ^0.1.2
+  geolocator: ^7.0.1
+  http: ^0.13.1
+  js: ^0.6.3
+  flutter_spinkit: ^5.0.0
+  
+  
+  
 
 dev_dependencies:
   flutter_test:
